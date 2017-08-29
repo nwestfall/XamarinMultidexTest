@@ -1,0 +1,16 @@
+layout/StudentList.axml;layout/studentlist.xml
+layout/StudentScanAlert.axml;layout/studentscanalert.xml
+layout/StudentListViewHolder.axml;layout/studentlistviewholder.xml
+layout/StudentAlertDialogView.axml;layout/studentalertdialogview.xml
+layout/AddStudentListViewHolder.axml;layout/addstudentlistviewholder.xml
+layout/LoadUnplannedStudentDialog.axml;layout/loadunplannedstudentdialog.xml
+layout/StudentAlertDetails.axml;layout/studentalertdetails.xml
+layout/StudentAlertDetailsTransportationViewHolder.axml;layout/studentalertdetailstransportationviewholder.xml
+Values/Strings.xml;values/strings.xml
+drawable/Check.xml;drawable/check.xml
+drawable/RedRoundedBackground.xml;drawable/redroundedbackground.xml
+anim/slide_in_left..xml;anim/slide_in_left..xml
+anim/slide_out_left.xml;anim/slide_out_left.xml
+anim/slide_in_right.xml;anim/slide_in_right.xml
+anim/slide_out_right.xml;anim/slide_out_right.xml
+Values/styles.xml;values/styles.xml

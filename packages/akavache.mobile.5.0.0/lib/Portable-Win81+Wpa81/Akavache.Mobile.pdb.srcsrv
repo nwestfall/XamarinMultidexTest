@@ -1,0 +1,12 @@
+SRCSRV: ini ------------------------------------------------
+VERSION=2
+SRCSRV: variables ------------------------------------------
+RAWURL=https://raw.github.com/akavache/akavache/3516bcbd43f656df28fbd3ad629ece7ca090bbd2/%var2%
+SRCSRVVERCTRL=https
+SRCSRVTRG=%RAWURL%
+SRCSRV: source files ---------------------------------------
+C:\projects\akavache\src\CommonAssemblyInfo.cs*src/CommonAssemblyInfo.cs
+C:\projects\akavache\src\Akavache.Mobile\AkavacheDriver.cs*src/Akavache.Mobile/AkavacheDriver.cs
+C:\projects\akavache\src\Akavache.Mobile\Properties\AssemblyInfo.cs*src/Akavache.Mobile/Properties/AssemblyInfo.cs
+C:\projects\akavache\src\Akavache.Mobile\Registrations.cs*src/Akavache.Mobile/Registrations.cs
+SRCSRV: end ------------------------------------------------

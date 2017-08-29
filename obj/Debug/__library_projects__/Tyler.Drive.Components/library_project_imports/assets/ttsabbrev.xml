@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abbreviations>
+  <abbreviation name="n" word="north" />
+  <abbreviation name="no" word="north" />
+  <abbreviation name="s" word="south" />
+  <abbreviation name="so" word="south" />
+  <abbreviation name="e" word="east" />
+  <abbreviation name="w" word="west" />
+  <abbreviation name="nw" word="north west" />
+  <abbreviation name="ne" word="north east" />
+  <abbreviation name="sw" word="south west" />
+  <abbreviation name="se" word="south east" />
+  <abbreviation name="hwy" word="highway" />
+  <abbreviation name="dr" word="drive" />
+  <abbreviation name="av" word="avenue" />
+  <abbreviation name="ave" word="avenue" />
+  <abbreviation name="rd" word="road" />
+  <abbreviation name="bd" word="boulevard" />
+  <abbreviation name="blvd" word="boulevard" />
+  <abbreviation name="ba" word="bay" />
+  <abbreviation name="pa" word="path" />
+  <abbreviation name="wa" word="way" />
+  <abbreviation name="ci" word="circle" />
+  <abbreviation name="cir" word="circle" />
+  <abbreviation name="ct" word="court" />
+  <abbreviation name="cr" word="cresent" />
+  <abbreviation name="cres" word="cresent" />
+  <abbreviation name="ln" word="lane" />
+  <abbreviation name="la" word="lane" />
+  <abbreviation name="mt" word="mount" />
+  <abbreviation name="pkwy" word="parkway" />
+  <abbreviation name="pky" word="parkway" />
+  <abbreviation name="pl" word="place" />
+  <abbreviation name="plz" word="plaza" />
+  <abbreviation name="pz" word="plaza" />
+  <abbreviation name="pt" word="point" />
+  <abbreviation name="rte" word="route" />
+  <abbreviation name="rt" word="route" />
+  <abbreviation name="sq" word="square" />
+  <abbreviation name="sqr" word="square" />
+  <abbreviation name="terr" word="terrace" />
+  <abbreviation name="ter" word="terrace" />
+  <abbreviation name="te" word="terrace" />
+  <abbreviation name="trl" word="trail" />
+  <abbreviation name="tr" word="trail" />
+  <abbreviation name="tnpk" word="turnpike" />
+  <abbreviation name="tpke" word="turnpike" />
+  <abbreviation name="tpk" word="turnpike" />
+</abbreviations>
